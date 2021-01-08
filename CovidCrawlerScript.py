@@ -212,7 +212,7 @@ for pic in images:
             covidict["dData"].append(bData)
         # Actual number of infecteds: function
         dAtuais = int(0)
-        dAtuais = int(bNotifica) - int(bDesca) - int(bRecupera) - int(bObitos)
+        dAtuais = int(bNotifica) - int(bDesca) - int(bRecupera) - int(bObitos) - int(bSuspei)
         if dAtuais > 0:
             covidict["dAtuais"] = []
             covidict["dAtuais"].append(dAtuais)
