@@ -16,5 +16,7 @@ Processa o dataframe ordenando por data e removendo caractesres indesejados
 TODO: Aplicativo para celular com os dados atualizados e gráficos estátisticos.
 (Como o site parou de atualizar os dados em dezembro, meu  projeto parou)
 
+URL da prefeitura com as images: http://mallet.pr.gov.br/Site_mallet/materias/2020/03_marco/18_covid_oficio/18_covid_oficio.asp
+
 mais em:
 https://www.kaggle.com/evertonkozloski/kernel5747cb5483
