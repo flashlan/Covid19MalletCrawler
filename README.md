@@ -8,7 +8,7 @@ Este script faz o download de imagens no site da prefeitura e usa OCR Tesseract 
 * Covid19_mallet_automate.ipynb:
 Contém o jupyter Notebook para desenvolvimento do código
 * CovidCrawlerScript.py:
-Script que executa um webcrap baixando todas as imagens do site e em seguida extrai o texto das imagens através do OCR, separando os dados em chaves/valores em loop e  adiconando tudo em uma planilha CSV para processamento posterior.
+Script que executa um webscrap baixando todas as imagens do site e em seguida extrai o texto das imagens através do OCR, separando os dados em chaves/valores em loop e  adiconando tudo em uma planilha CSV para processamento posterior.
 
 * CovidGraphs.ipynb:
 Processa o dataframe ordenando por data e removendo caractesres indesejados
